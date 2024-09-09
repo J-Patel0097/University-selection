@@ -1,2 +1,2 @@
 # University-selection
-http://localhost:8501/
+https://university-admission-predictionn.streamlit.app/ 
